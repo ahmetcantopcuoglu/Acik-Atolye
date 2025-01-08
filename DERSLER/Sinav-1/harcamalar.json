@@ -1,0 +1,57 @@
+[
+    {
+        "kategori": "Market",
+        "tutar": 150
+    },
+    {
+        "kategori": "Restoran",
+        "tutar": 200
+    },
+    {
+        "kategori": null,
+        "tutar": 300
+    },
+    {
+        "kategori": "Giyim",
+        "tutar": null
+    },
+    {
+        "kategori": "Elektronik",
+        "tutar": 400
+    },
+    {
+        "kategori": "Yanlış Veri"
+    },
+    {
+        "kategori": "Kitap",
+        "tutar": 75
+    },
+    {
+        "kategori": "Eğlence",
+        "tutar": 120
+    },
+    {
+        "kategori": "",
+        "tutar": 60
+    },
+    {
+        "kategori": "Seyahat",
+        "tutar": null
+    },
+    {
+        "kategori": null,
+        "tutar": null
+    },
+    {
+        "kategori": "Sağlık",
+        "tutar": 250
+    },
+    {
+        "kategori": "Abonelik",
+        "tutar": 90
+    },
+    {
+        "kategori": "Ev Eşyası",
+        "tutar": 320
+    }
+]
